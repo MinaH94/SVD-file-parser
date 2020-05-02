@@ -1,5 +1,5 @@
 # CMSIS-SVD file parser
-A script to extract peripheral information from CMSIS-SVD file, more info about this [here](https://www.keil.com/pack/doc/CMSIS/SVD/html/svd_Format_pg.html)
+A python script to extract peripheral information from CMSIS-SVD file, more info about this [here](https://www.keil.com/pack/doc/CMSIS/SVD/html/svd_Format_pg.html)
 
 ## Dependencies
 - This script requires [xmltodict](https://github.com/martinblech/xmltodict), after donwloading, put it beside this script.
